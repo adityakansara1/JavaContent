@@ -1,0 +1,26 @@
+package com.jdbc;
+
+import java.sql.*;
+
+public class Adi {
+	public static void main(String[] args) throws Exception 
+	{
+		String url = "jdbc:mysql://localhost:3307/assignment1" + "autoReconnect=true&useSSL=true";
+		String username = "root";
+		String password = "admin";
+		String query = "select * from account_master";
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection con = DriverManager.getConnection(url, username, password);
+		Statement st = con.createStatement();
+		ResultSet rs = st.executeQuery(query);
+		
+		rs.next();
+		String name = rs.getString("name");
+		
+		System.out.println(name);
+		
+		st.close();
+		con.close();
+	}
+}

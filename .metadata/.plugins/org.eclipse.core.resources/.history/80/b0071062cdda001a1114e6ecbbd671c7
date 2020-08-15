@@ -1,0 +1,5 @@
+package com.hi;
+
+public @interface WebServletet {
+
+}

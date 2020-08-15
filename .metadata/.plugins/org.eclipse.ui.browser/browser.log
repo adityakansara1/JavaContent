@@ -1,0 +1,705 @@
+
+Aug 07, 2020 15:43:15.93 NEW SESSION
+Aug 07, 2020 15:43:15.93 
+Aug 07, 2020 15:43:15.114 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 07, 2020 15:43:15.126 
+Aug 08, 2020 05:54:12.756 
+Aug 08, 2020 05:54:12.775 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 05:54:12.788 
+Aug 08, 2020 05:54:12.798 
+Aug 08, 2020 05:54:12.808 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 05:54:12.818 
+Aug 08, 2020 06:28:14.268 
+Aug 08, 2020 06:28:14.282 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 06:28:14.288 
+Aug 08, 2020 06:28:57.531 
+Aug 08, 2020 06:28:57.549 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 06:28:57.565 
+Aug 08, 2020 06:28:57.577 
+Aug 08, 2020 06:28:57.602 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 06:28:57.615 
+Aug 08, 2020 13:30:32.989 
+Aug 08, 2020 13:30:33.09 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 13:30:33.24 
+Aug 08, 2020 13:30:33.35 
+Aug 08, 2020 13:30:33.48 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 13:30:33.60 
+Aug 08, 2020 14:08:47.973 
+Aug 08, 2020 14:08:48.00 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 14:08:48.14 
+
+Aug 08, 2020 21:03:53.347 NEW SESSION
+Aug 08, 2020 21:03:53.347 
+Aug 08, 2020 21:03:53.359 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 21:03:53.372 
+Aug 08, 2020 21:03:53.382 
+Aug 08, 2020 21:03:53.397 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 21:03:53.409 
+Aug 08, 2020 21:04:37.687 
+Aug 08, 2020 21:04:37.705 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 21:04:37.719 
+
+Aug 08, 2020 21:54:19.868 NEW SESSION
+Aug 08, 2020 21:54:19.869 
+Aug 08, 2020 21:54:19.891 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 21:54:19.905 
+Aug 08, 2020 21:54:19.921 
+Aug 08, 2020 21:54:19.937 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 21:54:19.949 
+Aug 08, 2020 21:58:07.333 
+Aug 08, 2020 21:58:07.359 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 21:58:07.370 
+Aug 08, 2020 21:58:07.385 
+Aug 08, 2020 21:58:07.399 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 21:58:07.413 
+
+Aug 08, 2020 22:11:48.670 NEW SESSION
+Aug 08, 2020 22:11:48.670 
+Aug 08, 2020 22:11:48.686 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 08, 2020 22:11:48.698 
+Aug 08, 2020 22:11:48.712 
+Aug 08, 2020 22:11:48.726 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 08, 2020 22:11:48.739 
+Aug 09, 2020 10:37:00.476 
+Aug 09, 2020 10:37:00.500 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 09, 2020 10:37:00.512 
+Aug 09, 2020 10:37:00.528 
+Aug 09, 2020 10:37:00.539 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 10:37:00.555 
+
+Aug 09, 2020 11:14:21.152 NEW SESSION
+Aug 09, 2020 11:14:21.152 
+Aug 09, 2020 11:14:21.177 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 09, 2020 11:14:21.189 
+Aug 09, 2020 11:14:21.198 
+Aug 09, 2020 11:14:21.211 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 11:14:21.225 
+Aug 09, 2020 11:36:44.269 
+Aug 09, 2020 11:36:44.294 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 11:36:44.317 
+Aug 09, 2020 11:49:15.474 
+Aug 09, 2020 11:49:15.491 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 11:49:15.507 
+Aug 09, 2020 11:49:22.182 
+Aug 09, 2020 11:49:22.200 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 11:49:22.215 
+Aug 09, 2020 15:53:15.76 
+Aug 09, 2020 15:53:15.96 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 15:53:15.109 
+Aug 09, 2020 19:08:07.847 
+Aug 09, 2020 19:08:07.877 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 09, 2020 19:08:07.890 
+Aug 09, 2020 19:08:07.904 
+Aug 09, 2020 19:08:07.916 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 09, 2020 19:08:07.927 
+
+Aug 10, 2020 06:53:28.887 NEW SESSION
+Aug 10, 2020 06:53:28.887 [Parent 436, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+Aug 10, 2020 06:53:29.82 
+Aug 10, 2020 06:53:29.109 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 06:53:29.126 
+Aug 10, 2020 06:53:29.138 
+Aug 10, 2020 06:53:29.151 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 06:53:29.162 
+Aug 10, 2020 06:53:56.344 
+Aug 10, 2020 06:53:56.395 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 06:53:56.438 
+Aug 10, 2020 06:53:56.455 
+Aug 10, 2020 06:53:56.481 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 06:53:56.497 
+
+Aug 10, 2020 07:00:45.621 NEW SESSION
+Aug 10, 2020 07:00:45.621 
+Aug 10, 2020 07:00:45.640 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 07:00:45.651 
+
+Aug 10, 2020 09:58:47.811 NEW SESSION
+Aug 10, 2020 09:58:47.811 
+Aug 10, 2020 09:58:47.837 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 09:58:47.852 
+Aug 10, 2020 09:58:47.866 
+Aug 10, 2020 09:58:47.880 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 09:58:47.894 
+Aug 10, 2020 10:01:07.790 
+Aug 10, 2020 10:01:07.825 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 10:01:07.842 
+Aug 10, 2020 10:01:07.855 
+Aug 10, 2020 10:01:07.868 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:01:07.881 
+Aug 10, 2020 10:08:08.246 
+Aug 10, 2020 10:08:08.271 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 10:08:08.287 
+Aug 10, 2020 10:08:08.301 
+Aug 10, 2020 10:08:08.315 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:08:08.329 
+Aug 10, 2020 10:08:16.444 
+Aug 10, 2020 10:08:16.461 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:08:16.475 
+Aug 10, 2020 10:08:45.43 
+Aug 10, 2020 10:08:45.59 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:08:45.73 
+Aug 10, 2020 10:09:20.458 
+Aug 10, 2020 10:09:20.474 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:09:20.488 
+Aug 10, 2020 10:10:39.968 
+Aug 10, 2020 10:10:39.987 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:10:39.999 
+Aug 10, 2020 10:16:52.469 
+Aug 10, 2020 10:16:52.489 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 10:16:52.505 
+Aug 10, 2020 10:16:52.520 
+Aug 10, 2020 10:16:52.532 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:16:52.545 
+Aug 10, 2020 10:20:43.297 
+Aug 10, 2020 10:20:43.329 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 10:20:43.344 
+Aug 10, 2020 10:20:43.356 
+Aug 10, 2020 10:20:43.369 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:20:43.386 
+Aug 10, 2020 10:23:37.222 
+Aug 10, 2020 10:23:37.263 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 10:23:37.294 
+Aug 10, 2020 10:23:37.315 [Parent 11684, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+Aug 10, 2020 10:23:37.337 
+Aug 10, 2020 10:23:37.358 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 10:23:37.393 
+Aug 10, 2020 11:26:17.790 
+Aug 10, 2020 11:26:17.815 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:26:17.830 
+Aug 10, 2020 11:26:17.841 
+Aug 10, 2020 11:26:17.854 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:26:17.881 
+Aug 10, 2020 11:35:49.870 
+Aug 10, 2020 11:35:49.887 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:35:49.899 
+Aug 10, 2020 11:35:49.912 
+Aug 10, 2020 11:35:49.924 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:35:49.937 
+Aug 10, 2020 11:37:20.910 
+Aug 10, 2020 11:37:20.931 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:37:20.950 
+Aug 10, 2020 11:37:20.964 
+Aug 10, 2020 11:37:20.975 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:37:20.987 
+Aug 10, 2020 11:39:18.457 
+Aug 10, 2020 11:39:18.485 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:39:18.499 
+Aug 10, 2020 11:39:18.514 
+Aug 10, 2020 11:39:18.527 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:39:18.539 
+Aug 10, 2020 11:41:32.871 
+Aug 10, 2020 11:41:32.905 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:41:32.919 
+Aug 10, 2020 11:41:32.942 
+Aug 10, 2020 11:41:32.952 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:41:32.965 
+Aug 10, 2020 11:42:03.358 
+Aug 10, 2020 11:42:03.383 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:42:03.399 
+Aug 10, 2020 11:42:03.412 
+Aug 10, 2020 11:42:03.425 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:42:03.438 
+Aug 10, 2020 11:42:13.233 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.262 
+Aug 10, 2020 11:42:13.282 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.299 
+Aug 10, 2020 11:42:13.321 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.343 
+Aug 10, 2020 11:42:13.354 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.363 
+Aug 10, 2020 11:42:13.382 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.390 
+Aug 10, 2020 11:42:13.397 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.407 
+Aug 10, 2020 11:42:13.417 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.427 
+Aug 10, 2020 11:42:13.464 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.503 
+Aug 10, 2020 11:42:13.519 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.536 
+Aug 10, 2020 11:42:13.552 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.566 
+Aug 10, 2020 11:42:13.584 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.611 
+Aug 10, 2020 11:42:13.633 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.648 
+Aug 10, 2020 11:42:13.658 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.670 
+Aug 10, 2020 11:42:13.682 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.696 
+Aug 10, 2020 11:42:13.708 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:13.716 
+Aug 10, 2020 11:42:13.725 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:13.734 
+Aug 10, 2020 11:42:13.742 
+Aug 10, 2020 11:42:13.750 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:42:13.757 
+Aug 10, 2020 11:42:13.765 
+Aug 10, 2020 11:42:13.772 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:42:13.780 
+Aug 10, 2020 11:42:44.198 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.215 
+Aug 10, 2020 11:42:44.232 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.249 
+Aug 10, 2020 11:42:44.266 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.295 
+Aug 10, 2020 11:42:44.314 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.329 
+Aug 10, 2020 11:42:44.346 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.361 
+Aug 10, 2020 11:42:44.376 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.386 
+Aug 10, 2020 11:42:44.397 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.409 
+Aug 10, 2020 11:42:44.419 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.427 
+Aug 10, 2020 11:42:44.437 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.448 
+Aug 10, 2020 11:42:44.458 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.468 
+Aug 10, 2020 11:42:44.483 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.499 
+Aug 10, 2020 11:42:44.511 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.532 
+Aug 10, 2020 11:42:44.550 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.578 
+Aug 10, 2020 11:42:44.593 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.605 
+Aug 10, 2020 11:42:44.620 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.636 
+Aug 10, 2020 11:42:44.647 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.657 
+Aug 10, 2020 11:42:44.665 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.672 
+Aug 10, 2020 11:42:44.680 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.688 
+Aug 10, 2020 11:42:44.695 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.703 
+Aug 10, 2020 11:42:44.711 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.721 
+Aug 10, 2020 11:42:44.728 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.736 
+Aug 10, 2020 11:42:44.744 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.752 
+Aug 10, 2020 11:42:44.760 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.768 
+Aug 10, 2020 11:42:44.776 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.786 
+Aug 10, 2020 11:42:44.795 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.803 
+Aug 10, 2020 11:42:44.810 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.817 
+Aug 10, 2020 11:42:44.825 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.833 
+Aug 10, 2020 11:42:44.840 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.848 
+Aug 10, 2020 11:42:44.856 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.864 
+Aug 10, 2020 11:42:44.871 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.879 
+Aug 10, 2020 11:42:44.887 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.895 
+Aug 10, 2020 11:42:44.902 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.909 
+Aug 10, 2020 11:42:44.917 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.924 
+Aug 10, 2020 11:42:44.932 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.940 
+Aug 10, 2020 11:42:44.947 IPDL protocol error: Handler returned error code!
+Aug 10, 2020 11:42:44.954 
+Aug 10, 2020 11:42:44.961 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Aug 10, 2020 11:42:44.968 
+Aug 10, 2020 11:42:44.976 
+Aug 10, 2020 11:42:44.982 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:42:44.990 
+Aug 10, 2020 11:42:44.998 
+Aug 10, 2020 11:42:45.06 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:42:45.14 
+Aug 10, 2020 11:43:30.38 
+Aug 10, 2020 11:43:30.60 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:43:30.75 
+Aug 10, 2020 11:43:30.87 
+Aug 10, 2020 11:43:30.100 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:43:30.109 
+Aug 10, 2020 11:46:07.67 
+Aug 10, 2020 11:46:07.96 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:46:07.109 
+Aug 10, 2020 11:46:07.122 
+Aug 10, 2020 11:46:07.133 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:46:07.146 
+Aug 10, 2020 11:47:07.396 
+Aug 10, 2020 11:47:07.410 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:47:07.423 
+Aug 10, 2020 11:55:14.954 
+Aug 10, 2020 11:55:14.974 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:55:14.987 
+Aug 10, 2020 11:55:15.06 
+Aug 10, 2020 11:55:15.19 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:55:15.32 
+Aug 10, 2020 11:55:53.138 
+Aug 10, 2020 11:55:53.152 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:55:53.164 
+Aug 10, 2020 11:55:53.176 
+Aug 10, 2020 11:55:53.187 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:55:53.195 
+Aug 10, 2020 11:56:05.502 
+Aug 10, 2020 11:56:05.522 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:56:05.536 
+Aug 10, 2020 11:56:55.374 
+Aug 10, 2020 11:56:55.407 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 11:56:55.419 
+Aug 10, 2020 11:56:55.432 
+Aug 10, 2020 11:56:55.444 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 11:56:55.457 
+Aug 10, 2020 12:11:45.157 
+Aug 10, 2020 12:11:45.175 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:11:45.189 
+Aug 10, 2020 12:24:53.709 
+Aug 10, 2020 12:24:53.743 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 12:24:53.756 
+Aug 10, 2020 12:24:53.775 
+Aug 10, 2020 12:24:53.790 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:24:53.804 
+Aug 10, 2020 12:25:26.67 
+Aug 10, 2020 12:25:26.85 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 12:25:26.102 
+Aug 10, 2020 12:25:26.122 
+Aug 10, 2020 12:25:26.139 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:25:26.160 
+Aug 10, 2020 12:25:51.465 
+Aug 10, 2020 12:25:51.493 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:25:51.514 
+Aug 10, 2020 12:34:48.163 
+Aug 10, 2020 12:34:48.192 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 12:34:48.207 
+Aug 10, 2020 12:34:48.224 
+Aug 10, 2020 12:34:48.239 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:34:48.254 
+Aug 10, 2020 12:56:15.649 
+Aug 10, 2020 12:56:15.666 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 12:56:15.712 
+Aug 10, 2020 12:56:15.734 
+Aug 10, 2020 12:56:15.760 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 12:56:15.774 
+Aug 10, 2020 13:03:17.191 
+Aug 10, 2020 13:03:17.223 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 13:03:17.242 
+Aug 10, 2020 13:03:17.257 
+Aug 10, 2020 13:03:17.272 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:03:17.283 
+Aug 10, 2020 13:03:33.751 
+Aug 10, 2020 13:03:33.780 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 13:03:33.799 
+Aug 10, 2020 13:03:33.814 
+Aug 10, 2020 13:03:33.828 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:03:33.839 
+Aug 10, 2020 13:05:21.210 
+Aug 10, 2020 13:05:21.256 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 10, 2020 13:05:21.270 
+Aug 10, 2020 13:05:21.285 
+Aug 10, 2020 13:05:21.296 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:05:21.305 
+Aug 10, 2020 13:05:35.888 
+Aug 10, 2020 13:05:35.947 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:05:35.962 
+Aug 10, 2020 13:11:43.178 
+Aug 10, 2020 13:11:43.196 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:11:43.213 
+Aug 10, 2020 13:18:01.418 
+Aug 10, 2020 13:18:01.437 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 10, 2020 13:18:01.451 
+
+Aug 12, 2020 07:23:47.90 NEW SESSION
+Aug 12, 2020 07:23:47.90 
+Aug 12, 2020 07:23:47.107 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 12, 2020 07:23:47.121 
+Aug 12, 2020 07:23:47.136 
+Aug 12, 2020 07:23:47.153 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 12, 2020 07:23:47.165 
+
+Aug 12, 2020 17:49:46.483 NEW SESSION
+Aug 12, 2020 17:49:46.483 _create_dc_and_bitmap: The operation completed successfully.
+Aug 12, 2020 17:49:46.509 
+Aug 12, 2020 17:49:46.550 _create_dc_and_bitmap: The handle is invalid.
+Aug 12, 2020 17:49:46.569 
+Aug 12, 2020 17:49:46.586 _create_dc_and_bitmap: The handle is invalid.
+Aug 12, 2020 17:49:46.606 
+Aug 12, 2020 17:51:39.994 
+Aug 12, 2020 17:51:40.23 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 12, 2020 17:51:40.41 
+Aug 12, 2020 17:51:40.56 
+Aug 12, 2020 17:51:40.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 12, 2020 17:51:40.88 
+Aug 12, 2020 17:55:06.88 
+Aug 12, 2020 17:55:06.112 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 12, 2020 17:55:06.128 
+Aug 12, 2020 17:59:11.522 
+Aug 12, 2020 17:59:11.552 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 12, 2020 17:59:11.574 
+Aug 12, 2020 17:59:11.591 
+Aug 12, 2020 17:59:11.612 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 12, 2020 17:59:11.629 
+Aug 12, 2020 19:11:41.384 
+Aug 12, 2020 19:11:41.405 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 12, 2020 19:11:41.430 
+
+Aug 13, 2020 09:26:42.188 NEW SESSION
+Aug 13, 2020 09:26:42.188 
+Aug 13, 2020 09:26:42.210 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 13, 2020 09:26:42.232 
+Aug 13, 2020 09:26:42.245 
+Aug 13, 2020 09:26:42.260 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 09:26:42.275 
+Aug 13, 2020 09:36:53.159 _create_dc_and_bitmap: The operation completed successfully.
+Aug 13, 2020 09:36:53.177 
+Aug 13, 2020 09:36:53.195 _create_dc_and_bitmap: The handle is invalid.
+Aug 13, 2020 09:36:53.208 
+Aug 13, 2020 09:36:53.223 _create_dc_and_bitmap: The handle is invalid.
+Aug 13, 2020 09:36:53.238 
+Aug 13, 2020 09:38:40.484 
+Aug 13, 2020 09:38:40.516 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 13, 2020 09:38:40.530 
+Aug 13, 2020 09:38:40.546 
+Aug 13, 2020 09:38:40.563 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 09:38:40.581 
+Aug 13, 2020 09:43:31.780 [Parent 8160, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+Aug 13, 2020 09:43:31.808 
+Aug 13, 2020 09:43:31.830 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 09:43:31.851 
+
+Aug 13, 2020 10:26:01.941 NEW SESSION
+Aug 13, 2020 10:26:01.941 
+Aug 13, 2020 10:26:01.960 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 10:26:01.981 
+Aug 13, 2020 10:40:05.124 
+Aug 13, 2020 10:40:05.149 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 13, 2020 10:40:05.171 
+Aug 13, 2020 10:40:05.188 
+Aug 13, 2020 10:40:05.214 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 10:40:05.238 
+
+Aug 13, 2020 10:42:18.480 NEW SESSION
+Aug 13, 2020 10:42:18.480 
+Aug 13, 2020 10:42:18.497 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 10:42:18.516 
+Aug 13, 2020 10:48:20.779 _create_dc_and_bitmap: The operation completed successfully.
+Aug 13, 2020 10:48:20.798 
+Aug 13, 2020 10:48:20.812 _create_dc_and_bitmap: The handle is invalid.
+Aug 13, 2020 10:48:20.827 
+Aug 13, 2020 10:48:20.840 _create_dc_and_bitmap: The handle is invalid.
+Aug 13, 2020 10:48:20.851 
+Aug 13, 2020 10:49:27.585 
+Aug 13, 2020 10:49:27.612 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 13, 2020 10:49:27.629 
+Aug 13, 2020 10:49:27.647 
+Aug 13, 2020 10:49:27.661 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 10:49:27.673 
+Aug 13, 2020 10:51:35.820 
+Aug 13, 2020 10:51:35.855 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 10:51:35.872 
+
+Aug 13, 2020 19:47:27.400 NEW SESSION
+Aug 13, 2020 19:47:27.401 
+Aug 13, 2020 19:47:27.432 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 13, 2020 19:47:27.452 
+Aug 13, 2020 19:47:27.470 
+Aug 13, 2020 19:47:27.481 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 13, 2020 19:47:27.498 
+
+Aug 14, 2020 07:19:00.94 NEW SESSION
+Aug 14, 2020 07:19:00.94 
+Aug 14, 2020 07:19:00.112 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 14, 2020 07:19:00.123 
+
+Aug 14, 2020 11:48:11.500 NEW SESSION
+Aug 14, 2020 11:48:11.500 
+Aug 14, 2020 11:48:11.512 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 14, 2020 11:48:11.524 
+
+Aug 14, 2020 12:27:38.149 NEW SESSION
+Aug 14, 2020 12:27:38.149 
+Aug 14, 2020 12:27:38.172 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 14, 2020 12:27:38.188 
+Aug 14, 2020 12:27:38.204 
+Aug 14, 2020 12:27:38.218 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 14, 2020 12:27:38.232 
+
+Aug 14, 2020 17:31:22.642 NEW SESSION
+Aug 14, 2020 17:31:22.642 
+Aug 14, 2020 17:31:22.658 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 14, 2020 17:31:22.673 
+Aug 14, 2020 17:31:23.312 
+Aug 14, 2020 17:31:23.330 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 14, 2020 17:31:23.345 
+Aug 14, 2020 17:31:23.357 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Aug 14, 2020 17:31:23.371 
+Aug 14, 2020 17:31:23.390 ###!!! [Child][MessageChannel] Error: (msgtype=0x3900DA,name=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+Aug 14, 2020 17:31:23.405 
+
+Aug 15, 2020 11:46:55.709 NEW SESSION
+Aug 15, 2020 11:46:55.709 
+Aug 15, 2020 11:46:55.732 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 11:46:55.744 
+Aug 15, 2020 11:46:55.760 
+Aug 15, 2020 11:46:55.773 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 11:46:55.786 
+Aug 15, 2020 12:04:08.793 
+Aug 15, 2020 12:04:08.817 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:04:08.834 
+Aug 15, 2020 12:04:08.850 
+Aug 15, 2020 12:04:08.861 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:04:08.875 
+Aug 15, 2020 12:13:12.155 
+Aug 15, 2020 12:13:12.175 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:13:12.197 
+Aug 15, 2020 12:13:12.213 
+Aug 15, 2020 12:13:12.225 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:13:12.238 
+Aug 15, 2020 12:20:56.151 
+Aug 15, 2020 12:20:56.170 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:20:56.183 
+Aug 15, 2020 12:23:10.171 
+Aug 15, 2020 12:23:10.195 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:23:10.210 
+Aug 15, 2020 12:23:10.223 
+Aug 15, 2020 12:23:10.238 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:23:10.256 
+Aug 15, 2020 12:26:43.57 
+Aug 15, 2020 12:26:43.75 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:26:43.96 
+Aug 15, 2020 12:32:45.984 
+Aug 15, 2020 12:32:46.01 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+Aug 15, 2020 12:32:46.28 
+Aug 15, 2020 12:32:46.124 
+Aug 15, 2020 12:32:46.156 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:32:46.170 
+Aug 15, 2020 12:32:46.186 
+Aug 15, 2020 12:32:46.199 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:32:46.216 
+Aug 15, 2020 12:33:47.252 
+Aug 15, 2020 12:33:47.281 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:33:47.294 
+Aug 15, 2020 12:33:47.306 
+Aug 15, 2020 12:33:47.317 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:33:47.326 
+Aug 15, 2020 12:33:53.101 
+Aug 15, 2020 12:33:53.133 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:33:53.148 
+Aug 15, 2020 12:33:53.163 
+Aug 15, 2020 12:33:53.175 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:33:53.187 
+Aug 15, 2020 12:34:29.34 
+Aug 15, 2020 12:34:29.53 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:34:29.72 
+Aug 15, 2020 12:34:29.91 
+Aug 15, 2020 12:34:29.104 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:34:29.118 
+Aug 15, 2020 12:35:31.385 
+Aug 15, 2020 12:35:31.401 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:35:31.422 
+Aug 15, 2020 12:35:31.435 
+Aug 15, 2020 12:35:31.452 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:35:31.465 
+Aug 15, 2020 12:40:49.235 
+Aug 15, 2020 12:40:49.251 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:40:49.267 
+Aug 15, 2020 12:46:15.37 
+Aug 15, 2020 12:46:15.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:46:15.72 
+Aug 15, 2020 12:46:32.07 
+Aug 15, 2020 12:46:32.34 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 12:46:32.48 
+Aug 15, 2020 12:46:32.77 
+Aug 15, 2020 12:46:32.91 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 12:46:32.107 
+Aug 15, 2020 13:31:30.614 
+Aug 15, 2020 13:31:30.639 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 13:31:30.647 
+Aug 15, 2020 13:31:30.661 
+Aug 15, 2020 13:31:30.672 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 13:31:30.685 
+Aug 15, 2020 13:32:31.756 
+Aug 15, 2020 13:32:31.776 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 13:32:31.789 
+Aug 15, 2020 13:34:08.197 
+Aug 15, 2020 13:34:08.217 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 13:34:08.234 
+Aug 15, 2020 13:34:08.247 
+Aug 15, 2020 13:34:08.261 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 13:34:08.282 
+Aug 15, 2020 14:46:37.61 
+Aug 15, 2020 14:46:37.86 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 14:46:37.104 
+Aug 15, 2020 14:46:37.119 
+Aug 15, 2020 14:46:37.135 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 14:46:37.146 
+Aug 15, 2020 17:20:05.01 
+Aug 15, 2020 17:20:05.24 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 17:20:05.37 
+Aug 15, 2020 17:20:05.51 
+Aug 15, 2020 17:20:05.61 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 17:20:05.80 
+Aug 15, 2020 17:21:42.233 
+Aug 15, 2020 17:21:42.249 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 17:21:42.263 
+Aug 15, 2020 17:21:42.276 
+Aug 15, 2020 17:21:42.290 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 17:21:42.307 
+Aug 15, 2020 17:28:06.657 
+Aug 15, 2020 17:28:06.680 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 17:28:06.692 
+Aug 15, 2020 17:28:06.707 
+Aug 15, 2020 17:28:06.721 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 17:28:06.733 
+Aug 15, 2020 18:11:50.497 
+Aug 15, 2020 18:11:50.528 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 18:11:50.540 
+Aug 15, 2020 18:11:50.558 
+Aug 15, 2020 18:11:50.574 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:11:50.589 
+Aug 15, 2020 18:12:04.578 
+Aug 15, 2020 18:12:04.599 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:12:04.613 
+Aug 15, 2020 18:14:58.861 
+Aug 15, 2020 18:14:58.880 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:14:58.896 
+Aug 15, 2020 18:15:48.664 
+Aug 15, 2020 18:15:48.699 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 18:15:48.718 
+Aug 15, 2020 18:15:48.734 
+Aug 15, 2020 18:15:48.748 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:15:48.764 
+Aug 15, 2020 18:16:04.592 
+Aug 15, 2020 18:16:04.627 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 18:16:04.647 
+Aug 15, 2020 18:16:04.658 
+Aug 15, 2020 18:16:04.672 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:16:04.683 
+Aug 15, 2020 18:18:25.607 
+Aug 15, 2020 18:18:25.637 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:18:25.654 
+Aug 15, 2020 18:19:37.278 
+Aug 15, 2020 18:19:37.312 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 18:19:37.327 
+Aug 15, 2020 18:19:37.342 
+Aug 15, 2020 18:19:37.354 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:19:37.366 
+Aug 15, 2020 18:21:04.985 [Parent 4776, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+Aug 15, 2020 18:21:05.294 
+Aug 15, 2020 18:21:05.324 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 18:21:05.346 
+Aug 15, 2020 18:21:05.368 
+Aug 15, 2020 18:21:05.389 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 18:21:05.407 
+Aug 15, 2020 19:07:24.894 
+Aug 15, 2020 19:07:24.913 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 19:07:24.927 
+Aug 15, 2020 19:39:52.397 
+Aug 15, 2020 19:39:52.417 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Aug 15, 2020 19:39:52.431 
+Aug 15, 2020 19:39:52.446 
+Aug 15, 2020 19:39:52.458 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 19:39:52.473 
+Aug 15, 2020 19:44:57.513 
+Aug 15, 2020 19:44:57.531 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Aug 15, 2020 19:44:57.548 

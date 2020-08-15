@@ -1,0 +1,56 @@
+package com.jdbc;
+
+import java.sql.*;
+
+public class Adu {
+	public static void main(String[] args) 
+	{
+		StudentDAO dao = new StudentDAO();
+		Student s1 = dao.getStudent(2);
+		System.out.println("Name : " + s1.name);
+		System.out.println("Phone : " + s1.phone);
+		System.out.println("Email : " + s1.email);
+		Student s2 = new Student();
+		dao.addStudent(s2);
+	}
+}
+
+class StudentDAO
+{
+	public Student getStudent(int id)
+	{
+		try {
+			Student s = new Student();
+			s.id = id;
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/aditya" ,"root" ,"");
+			Statement st = con.createStatement();
+			ResultSet rs = st.executeQuery("select * from student_marks1 where id="+id);
+			rs.next();
+			s.name = rs.getString(2);
+			s.phone = rs.getString(3);
+			s.email = rs.getString(4);
+			return s;
+		} catch(Exception e) {
+			System.out.println(e);
+		}
+		return null;
+	}
+	
+	public Student addStudent(Student s)
+	{
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/aditya" ,"root" ,"");
+		Statement st = con.createStatement();
+		int count = st.executeUpdate("insert into student_marks1 values(1 ,'adity' ,'321546' ,'a@gmail.com')");
+	}
+}
+
+class Student
+{
+	int id;
+	String name;
+	String phone;
+	String email;
+}
+

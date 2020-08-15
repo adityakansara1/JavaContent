@@ -1,0 +1,25 @@
+package com.hi;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/DemoServlet")
+public class DemoServlet extends HttpServlet
+{
+	protected void doGet(HttpServletRequest req ,HttpServletResponse res) throws ServletException, IOException
+	{	
+//		String name = "Aditya";
+//		req.setAttribute("label", name);
+	
+		Student s = new Student(1 ,"Aditya"); 
+		req.setAttribute("student", s);
+		RequestDispatcher rd = req.getRequestDispatcher("display.jsp");
+		rd.forward(req, res);
+	}
+}

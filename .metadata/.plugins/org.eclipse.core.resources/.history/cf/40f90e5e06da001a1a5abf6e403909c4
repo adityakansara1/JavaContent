@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="Servlet" method="post">
+		Firstname : <input type="text" name="fName" required="required"><br>
+		Lastname : <input type="text" name="lName" required="required"><br>
+		Surname : <input type=text" name="sName" required="required"><br>
+		Gender: <input type="radio" id="male" name="gender" value="male" required="required" />
+				<label for="male">Male</label><br>
+				<input type="radio" id="female" name="gender" value="female" required="required" />
+				<label for="female">Female</label><br>
+				<input type="radio" id="other" name="gender" value="other" required="required" />
+				<label for="other">Other</label>
+		Qualifcation :
+		Address : 
+		Password : <input type="password" name="password" required="required"><br>
+		Confirm Password :	<input type="password" name="confirmPassword" required="required"><br>
+		
+		<input type="submit">
+	</form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+package com.jdbc;
+
+import java.sql.*;
+
+public class Adi {
+	public static void main(String[] args) throws Exception 
+	{
+		String url = "jdbc:mysql://localhost:3306/aditya";
+		String username = "root";
+		String password = "";
+		//String query = "select * from student_marks1";
+		String query = "insert into student_marks1 values(3 ,\"Kansara\" ,\"8140008233\" ,\"kansara@gmail.com\")";
+		
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection con = DriverManager.getConnection(url, username, password);
+		Statement st = con.createStatement();
+		//ResultSet rs = st.executeQuery(query);
+		int count = st.executeUpdate(query);
+		
+		System.out.println(count + "Rows affected");
+		
+//		String name = "";
+//		while(rs.next()) 
+//		{
+//			name = rs.getString("name");
+//			System.out.println(name);
+//		}
+		
+		
+		st.close();
+		con.close();
+	}
+}

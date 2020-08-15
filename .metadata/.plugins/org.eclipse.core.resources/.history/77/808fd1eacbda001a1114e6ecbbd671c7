@@ -1,0 +1,50 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    
+<%@ page import="java.sql.*" %>
+
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	<%
+		String url = "jdbc:mysql://localhost:3306/aditya";
+		String username = "root";
+		String password = "";
+		String query = "select * from student_marks1 where id=1";
+		
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection con = DriverManager.getConnection(url ,username ,password);
+		Statement st = con.createStatement();
+		ResultSet rs = st.executeQuery(query);
+		rs.next();
+		String name = rs.getString(2);
+		
+		con.close();
+		st.close();
+	%>
+	<b>Name : </b><%= name %>
+	<!-- We can do "${name}" by creating another servlet called controller -->
+
+	<!--
+		 client->req->page
+		 but page has view
+		 we are not suppose to write our java logic in jsp file it is only for view 
+		 we have to write java logic into 
+		 								
+		 		client->req->page	-> controller->servlet->dao->database
+		 									|
+		 									|This will take data from servlet->dao->database path
+		 									|  and send data by POJO(pure old java object) to the jsp	
+		 									|   for data security..
+		 								    \/
+		 								  .jsp file(for view only)  		
+		 									
+	 -->
+</body>
+</html>

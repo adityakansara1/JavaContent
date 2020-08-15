@@ -1,0 +1,36 @@
+package com.kansara.web;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+public class GetAlienController extends HttpServlet {
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		int id = Integer.parseInt(request.getParameter("id"));
+		
+		ProfileDao dao = new ProfileDao();
+		
+		if(true)	{
+//			HttpSession session = request.getSession();
+//			session.setAttribute("username", );
+			HttpSession session = request.getSession();
+			POJO pojo = new POJO();
+			pojo = dao.dataFetcher(id);
+			session.setAttribute("id", id);
+			session.setAttribute("name", pojo.getName());
+			session.setAttribute("phone", pojo.getPhone());
+			session.setAttribute("pin", pojo.getPin());
+			RequestDispatcher rd = request.getRequestDispatcher("profile.jsp");
+			rd.forward(request, response);
+		} else {
+			response.sendRedirect("index.jsp");
+		}
+
+	}
+}

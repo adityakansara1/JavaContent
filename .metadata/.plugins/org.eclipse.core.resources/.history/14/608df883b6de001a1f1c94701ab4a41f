@@ -1,0 +1,35 @@
+package com.kansara.web;
+
+import java.sql.*;
+
+public class ProfileDao {
+	final String url = "jdbc:mysql://localhost:3306/aditya";
+	final String username = "root";
+	final String password = "";
+	final String sql = "select * from profile where id=?";
+
+	public POJO check(int id) {
+		try {
+			Class.forName("com.mysql.jdbc.driver");
+			Connection con = DriverManager.getConnection(url ,username ,password);
+			PreparedStatement pstm = con.prepareStatement(sql);
+			pstm.setInt(1 ,id);
+			ResultSet rs = pstm.executeQuery();
+			
+			if(rs.next()) {
+				String name = rs.getString(2);
+				String phone = rs.getString(3);
+				String pin = rs.getString(4);
+				
+				POJO pojo = new POJO();
+				pojo.setName(name);
+				pojo.setPhone(phone);
+				pojo.setPin(pin);
+				return pojo;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return null;	
+	}	
+}

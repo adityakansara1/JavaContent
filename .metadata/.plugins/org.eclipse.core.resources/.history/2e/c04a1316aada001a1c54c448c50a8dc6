@@ -1,0 +1,44 @@
+package com.jdbc;
+
+import java.sql.*;
+
+public class Adu {
+	public static void main(String[] args) 
+	{
+		StudentDAO dao = new StudentDAO();
+		Student s1 = dao.getStudent(2);
+		System.out.println(s1.name);
+	}
+}
+
+class StudentDAO
+{
+	public Student getStudent(int id)
+	{
+		try {
+			Student s = new Student();
+			s.id = id;
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/aditya" ,"root" ,"");
+			Statement st = con.createStatement();
+			ResultSet rs = st.executeQuery("select * from student_marks1 where id="+id);
+			rs.next();
+			s.name = rs.getString(2);
+			s.phone = rs.getString(3);
+			s.email = rs.getString(4);
+			return s;
+		} catch(Exception e) {
+			System.out.println(e);
+		}
+		return null;
+	}
+}
+
+class Student
+{
+	int id;
+	String name;
+	String phone;
+	String email;
+}
+

@@ -1,0 +1,58 @@
+package com.kansara.web;
+
+import java.sql.*;
+
+public class ProfileDao {
+	final String url = "jdbc:mysql://localhost:3306/aditya";
+	final String username = "root";
+	final String password = "";
+	final String sql = "select * from profile where id=?";
+
+	public boolean check(int id) {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection(url ,username ,password);
+			PreparedStatement pstm = con.prepareStatement(sql);
+			pstm.setInt(1 ,id);
+			ResultSet rs = pstm.executeQuery();
+			
+			if(rs.next()) {
+				return true;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return false;	
+	}
+	
+	public POJO dataFetcher(int id) {
+		final String url = "jdbc:mysql://localhost:3306/aditya";
+		final String username = "root";
+		final String password = "";
+		final String sql = "select * from profile where id=?";
+		String name = null; 
+		String phone = null;
+		String pin = null; 
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection(url ,username ,password);
+			PreparedStatement pstm = con.prepareStatement(sql);
+			pstm.setInt(1 ,id);
+			ResultSet rs = pstm.executeQuery();
+			
+			rs.next();
+			name = rs.getString(2);
+			phone = rs.getString(3);
+			pin = rs.getString(4);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		POJO pojo = new POJO();
+		pojo.setName(name);
+		pojo.setPhone(phone);
+		pojo.setPin(pin);
+		
+		return pojo;
+	}
+}
